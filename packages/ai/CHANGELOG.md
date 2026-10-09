@@ -1,5 +1,13 @@
 # ai
 
+## 6.0.303
+
+### Patch Changes
+
+- 88aa201: fix(ai): wait for chat stream cleanup when stopping
+- Updated dependencies [897cb0c]
+  - @ai-sdk/gateway@3.0.212
+
 ## 6.0.302
 
 ### Patch Changes
