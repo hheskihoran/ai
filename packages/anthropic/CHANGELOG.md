@@ -1,5 +1,14 @@
 # @ai-sdk/anthropic
 
+## 4.0.79
+
+### Patch Changes
+
+- 1ccc7fb: fix(anthropic): preserve tools when disabling tool calls
+- c91c857: fix(anthropic): preserve failed tool search results in conversation history
+- Updated dependencies [81663cc]
+  - @ai-sdk/provider-utils@5.0.59
+
 ## 4.0.78
 
 ### Patch Changes

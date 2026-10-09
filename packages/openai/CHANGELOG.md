@@ -1,5 +1,13 @@
 # @ai-sdk/openai
 
+## 4.0.92
+
+### Patch Changes
+
+- 6aedb07: fix(openai): replay web search results when response storage is disabled
+- Updated dependencies [81663cc]
+  - @ai-sdk/provider-utils@5.0.59
+
 ## 4.0.91
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @ai-sdk/harness-opencode
 
+## 1.0.151
+
+### Patch Changes
+
+- 409da36: fix(harness-opencode): keep observation metadata out of native tool arguments
+- Updated dependencies [81663cc]
+  - @ai-sdk/provider-utils@5.0.59
+  - @ai-sdk/harness@1.0.149
+
 ## 1.0.150
 
 ### Patch Changes

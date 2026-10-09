@@ -1,5 +1,18 @@
 # @ai-sdk/react
 
+## 4.0.141
+
+### Patch Changes
+
+- a527dcd: fix(react): prevent stale useObject streams from overwriting newer results
+- 898bc05: fix(react): preserve replay semantics for custom chat transports
+- Updated dependencies [4c705d9]
+- Updated dependencies [81663cc]
+- Updated dependencies [9aef724]
+  - ai@7.0.138
+  - @ai-sdk/provider-utils@5.0.59
+  - @ai-sdk/mcp@2.0.74
+
 ## 4.0.140
 
 ### Patch Changes

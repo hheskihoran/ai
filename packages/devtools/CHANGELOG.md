@@ -1,5 +1,13 @@
 # @ai-sdk/devtools
 
+## 1.0.41
+
+### Patch Changes
+
+- Updated dependencies [4c705d9]
+- Updated dependencies [9aef724]
+  - ai@7.0.138
+
 ## 1.0.40
 
 ### Patch Changes

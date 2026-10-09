@@ -1,5 +1,19 @@
 # @ai-sdk/workflow
 
+## 2.0.70
+
+### Patch Changes
+
+- 1506ee1: Fix `WorkflowChatTransport` retrying indefinitely when successful reconnect responses contain no UI message chunks. Empty streams now count toward `maxConsecutiveErrors`, while streams that receive chunks continue to advance the resume cursor and reset the error count.
+- 7400215: fix(workflow): retain streamed terminal assistant responses in conversation messages
+- 9aef724: fix(workflow): report incomplete no-output model streams as errors
+- 507cd9d: fix(workflow): include actionable details in tool input validation errors
+- Updated dependencies [4c705d9]
+- Updated dependencies [81663cc]
+- Updated dependencies [9aef724]
+  - ai@7.0.138
+  - @ai-sdk/provider-utils@5.0.59
+
 ## 2.0.69
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # ai
 
+## 7.0.138
+
+### Patch Changes
+
+- 4c705d9: Fix validation of rounded choice probabilities in `experimental_decide`.
+- 9aef724: fix(workflow): report incomplete no-output model streams as errors
+- Updated dependencies [81663cc]
+  - @ai-sdk/provider-utils@5.0.59
+  - @ai-sdk/gateway@4.0.111
+
 ## 7.0.137
 
 ### Patch Changes
